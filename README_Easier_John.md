@@ -15,11 +15,10 @@ The purpose of this analysis is to examine the COMPAS recidivism dataset and und
 
 1. Clone the repository
 git clone https://github.com/EasierJohn/Responsible-Machine-Learning-/upload/main
-cd your-repo-name
 
 2. Install required libraries
 pip install pandas numpy matplotlib seaborn statsmodels scikit-learn
-4. Run the Jupyter Notebook
+4. Run the Python code in Jupyter Notebook
 
 jupyter notebook Lecture_01_alignment.ipynb
 
